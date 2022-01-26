@@ -1,3 +1,0 @@
-Thin is a beautifull new file.
-"Because of the Git for sure"  
-123  
